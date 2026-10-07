@@ -171,6 +171,7 @@ Session
 |---------|-------------|
 | [simple_chat.py](examples/simple_chat.py) | Basic chat |
 | [simple_chat_with_tool.py](examples/simple_chat_with_tool.py) | Tool calling (ReAct) |
+| [parallel_search.py](examples/parallel_search.md) | Keyless web search and fetch via MCP |
 | [streaming_chat.py](examples/streaming_chat.py) | Real-time streaming |
 | [human_in_loop.py](examples/human_in_loop.py) | Human approval workflow |
 | [perception_loop.py](examples/perception_loop.py) | Sensor processing |
